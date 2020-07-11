@@ -13,7 +13,7 @@ class Config:
     １．　本地仓库的的路径
     ２．　github中的仓库leetcode解法的路径
     """
-    local_path = '/home/seel/Documents/leetcode'
+    local_path = '/home/jovyan/work'
     # solution of leetcode
     #github_leetcode_url = 'https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/'
     github_leetcode_url = 'https://github.com/SilvesterHsu/leetcode/blob/master/leetcode-algorithms/'

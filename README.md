@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2020-07-12 00:40:34, I have solved **3** / **1376** problems while **219** are still locked.
+Until 2020-07-12 10:06:48, I have solved **3** / **1376** problems while **219** are still locked.
 
 Completion statistic: 
 1. Python: 3
-2. Julia: 1
+2. Julia: 3
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -36,7 +36,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) |Hard|To Do|To Do|
 |024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) |Medium|To Do|To Do|
 |025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) |Hard|To Do|To Do|
-|026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) |Easy|[Python](https://github.com/SilvesterHsu/leetcode/blob/master/leetcode-algorithms/026.%20Remove%20Duplicates%20from%20Sorted%20Array/solution.py)|To Do|
+|026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) |Easy|[Python](https://github.com/SilvesterHsu/leetcode/blob/master/leetcode-algorithms/026.%20Remove%20Duplicates%20from%20Sorted%20Array/solution.py)|[Julia](https://github.com/SilvesterHsu/leetcode/blob/master/leetcode-algorithms/026.%20Remove%20Duplicates%20from%20Sorted%20Array/solution.jl)|
 |027|[Remove Element](https://leetcode.com/problems/remove-element/description/) |Easy|[Python](https://github.com/SilvesterHsu/leetcode/blob/master/leetcode-algorithms/027.%20Remove%20Element/solution.py)|[Julia](https://github.com/SilvesterHsu/leetcode/blob/master/leetcode-algorithms/027.%20Remove%20Element/solution.jl)|
 |028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) |Easy|To Do|To Do|
 |029|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/) |Medium|To Do|To Do|
@@ -90,7 +90,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |077|[Combinations](https://leetcode.com/problems/combinations/description/) |Medium|To Do|To Do|
 |078|[Subsets](https://leetcode.com/problems/subsets/description/) |Medium|To Do|To Do|
 |079|[Word Search](https://leetcode.com/problems/word-search/description/) |Medium|To Do|To Do|
-|080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) |Medium|[Python](https://github.com/SilvesterHsu/leetcode/blob/master/leetcode-algorithms/080.%20Remove%20Duplicates%20from%20Sorted%20Array%20II/solution.py)|To Do|
+|080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) |Medium|[Python](https://github.com/SilvesterHsu/leetcode/blob/master/leetcode-algorithms/080.%20Remove%20Duplicates%20from%20Sorted%20Array%20II/solution.py)|[Julia](https://github.com/SilvesterHsu/leetcode/blob/master/leetcode-algorithms/080.%20Remove%20Duplicates%20from%20Sorted%20Array%20II/solution.jl)|
 |081|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/) |Medium|To Do|To Do|
 |082|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) |Medium|To Do|To Do|
 |083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) |Easy|To Do|To Do|

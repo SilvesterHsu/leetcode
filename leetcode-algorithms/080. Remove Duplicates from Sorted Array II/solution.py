@@ -1,3 +1,4 @@
+from typing import List
 def removeDuplicates(nums: List[int]) -> int:
     if len(nums) == 0:
         return 0

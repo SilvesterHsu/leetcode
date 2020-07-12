@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2020-07-12 10:06:48, I have solved **3** / **1376** problems while **219** are still locked.
+Until 2020-07-12 11:42:29, I have solved **4** / **1376** problems while **219** are still locked.
 
 Completion statistic: 
-1. Python: 3
-2. Julia: 3
+1. Python: 4
+2. Julia: 4
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -189,7 +189,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |186|[Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/description/) :lock:|Medium|To Do|To Do|
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/description/) |Medium|To Do|To Do|
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) |Hard|To Do|To Do|
-|189|[Rotate Array](https://leetcode.com/problems/rotate-array/description/) |Easy|To Do|To Do|
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array/description/) |Easy|[Python](https://github.com/SilvesterHsu/leetcode/blob/master/leetcode-algorithms/189.%20Rotate%20Array/solution.py)|[Julia](https://github.com/SilvesterHsu/leetcode/blob/master/leetcode-algorithms/189.%20Rotate%20Array/solution.jl)|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/description/) |Easy|To Do|To Do|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) |Easy|To Do|To Do|
 |198|[House Robber](https://leetcode.com/problems/house-robber/description/) |Easy|To Do|To Do|
